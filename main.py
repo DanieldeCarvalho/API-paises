@@ -34,7 +34,7 @@ def mostrar_populacao(nome_do_pais):
         lista_de_paises = parsing(resposta)
         if lista_de_paises:
             for pais in lista_de_paises:
-                print(f'{}{}'.format(pais['name'], pais['population']))
+                print('{}{}'.format(pais['name'], pais['population']))
         else:
             print('Pais nao encontrado')
 
