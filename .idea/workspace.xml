@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e43d98e7-789e-4a90-b617-74f25bf455f8" name="Default Changelist" comment="b">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="e43d98e7-789e-4a90-b617-74f25bf455f8" name="Default Changelist" comment="31/03" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,9 +101,9 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.venv_paises" />
-      <item itemvalue="Python.venv" />
       <item itemvalue="Python.main" />
+      <item itemvalue="Python.venv" />
+      <item itemvalue="Python.venv_paises" />
     </list>
     <recent_temporary>
       <list>
@@ -187,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617140851895</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="31/03">
+      <created>1617225291817</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1617225291817</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -221,6 +225,7 @@
     <MESSAGE value="a" />
     <MESSAGE value="venv commmit" />
     <MESSAGE value="b" />
-    <option name="LAST_COMMIT_MESSAGE" value="b" />
+    <MESSAGE value="31/03" />
+    <option name="LAST_COMMIT_MESSAGE" value="31/03" />
   </component>
 </project>

@@ -58,5 +58,4 @@ if __name__ == '__main__':
             listar_paises(lista_de_paises)
 
 '''24:05
-tirar print de todas essas funcoes acima pq nenhuma tra o caderno
 '''
